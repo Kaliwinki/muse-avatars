@@ -6,13 +6,24 @@ Themes are grouped **by series**: one folder per series, and inside it one folde
 
 > 🇫🇷 Version française plus bas.
 
+## Series: Bowser
+
+The Koopa King — spiked green shell, red mane, horns and claws out. Four variations generated from one reference artwork.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **bowser-1** | ![bowser-1](bowser/bowser-1/avatar.webp) | 3D render | ✅ Active in Muse |
+| **bowser-2** | ![bowser-2](bowser/bowser-2/avatar.webp) | Detailed 3D render, closest to the reference | Available |
+| **bowser-3** | ![bowser-3](bowser/bowser-3/avatar.webp) | Pixel art version | Available |
+| **bowser-4** | ![bowser-4](bowser/bowser-4/avatar.webp) | Flat 2D cartoon illustration | Available |
+
 ## Series: Peach
 
 The princess of the Mushroom Kingdom — pink ballgown, gold crown, blue gem brooch. Four variations generated from one reference artwork.
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **peach-1** | ![peach-1](peach/peach-1/avatar.webp) | 3D render | ✅ Active in Muse, animations included |
+| **peach-1** | ![peach-1](peach/peach-1/avatar.webp) | 3D render | Available, animations included |
 | **peach-2** | ![peach-2](peach/peach-2/avatar.webp) | 3D clay texture render, closest to the reference | Available |
 | **peach-3** | ![peach-3](peach/peach-3/avatar.webp) | Pixel art version | Available |
 | **peach-4** | ![peach-4](peach/peach-4/avatar.webp) | Flat 2D cartoon illustration | Available |
@@ -166,6 +177,15 @@ muse-avatars/
     │   └── avatar.webp
     └── peach-4/
         └── avatar.webp
+└── bowser/
+    ├── bowser-1/
+    │   └── avatar.webp
+    ├── bowser-2/
+    │   └── avatar.webp
+    ├── bowser-3/
+    │   └── avatar.webp
+    └── bowser-4/
+        └── avatar.webp
 ```
 
 ## Using a theme
@@ -180,8 +200,14 @@ Une collection de **thèmes d'avatar pour Muse** — images et animations d'avat
 
 Les thèmes sont regroupés **par série** : un dossier par série, et dedans un dossier par thème. Chaque dossier de thème contient une image d'avatar (`avatar.webp`). Le thème actif contient aussi toutes ses animations (MP4) : celles que Muse fait défiler en haut de la discussion selon ce qu'il fait — repos, travail, création, célébration.
 
+**Série Bowser** — le roi Koopa : carapace verte à pointes, crinière rouge, cornes et griffes dehors. Quatre variantes :
+- **bowser-1** — rendu 3D. ✅ Actif dans Muse.
+- **bowser-2** — rendu 3D détaillé, le plus proche de la référence.
+- **bowser-3** — version pixel art.
+- **bowser-4** — illustration cartoon 2D.
+
 **Série Peach** — la princesse du Royaume Champignon : robe de bal rose, couronne dorée, broche bleue. Quatre variantes :
-- **peach-1** — rendu 3D. ✅ Actif dans Muse.
+- **peach-1** — rendu 3D. Animations incluses.
 - **peach-2** — rendu 3D texture pâte à modeler, le plus proche de la référence.
 - **peach-3** — version pixel art.
 - **peach-4** — illustration cartoon 2D.

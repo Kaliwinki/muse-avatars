@@ -6,20 +6,31 @@ Themes are grouped **by series**: one folder per series, and inside it one folde
 
 > 🇫🇷 Version française plus bas.
 
-## Series: Anime Angel
+## Series: Kimono
 
-Four variations of the same angel, generated from one reference artwork — saved here so they can be swapped back at any time.
+A swordswoman in a white kimono with red trim, an ornate hair ornament, and a katana, among cherry blossoms — four variations generated from one reference artwork.
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **anime-angel-1** | ![anime-angel-1](anime-angel/anime-angel-1/avatar.webp) | Anime — blonde angel, white satin dress, feathered wings, pink halo | ✅ Active in Muse, animations included |
+| **kimono-1** | ![kimono-1](kimono/kimono-1/avatar.webp) | Anime 3D style — white kimono, red bow belt, katana | ✅ Active in Muse |
+| **kimono-2** | ![kimono-2](kimono/kimono-2/avatar.webp) | Flat anime — closest to the reference artwork | Available |
+| **kimono-3** | ![kimono-3](kimono/kimono-3/avatar.webp) | Semi-realistic render | Available |
+| **kimono-4** | ![kimono-4](kimono/kimono-4/avatar.webp) | Pixel art version | Available |
+
+## Series: Anime Angel
+
+Four variations of the same angel, generated from one reference artwork.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **anime-angel-1** | ![anime-angel-1](anime-angel/anime-angel-1/avatar.webp) | Anime — blonde angel, white satin dress, feathered wings, pink halo | Available, animations included |
 | **anime-angel-2** | ![anime-angel-2](anime-angel/anime-angel-2/avatar.webp) | Anime — closest to the reference artwork, wings fully spread | Available |
 | **anime-angel-3** | ![anime-angel-3](anime-angel/anime-angel-3/avatar.webp) | Semi-realistic render — softer light, brighter wings | Available |
 | **anime-angel-4** | ![anime-angel-4](anime-angel/anime-angel-4/avatar.webp) | Pixel art version of the angel | Available |
 
-## Animations (anime-angel-1)
+## Animations
 
-The `anime-angel/anime-angel-1/animations/` folder holds the animated states Muse rotates through depending on what it is doing:
+The active theme's `animations/` folder holds the animated states Muse rotates through depending on what it is doing:
 
 - `idle.mp4` — at rest (also used while connecting)
 - `working.mp4` — working on a task
@@ -33,19 +44,28 @@ muse-avatars/
 ├── README.md
 ├── LICENSE
 ├── CHANGELOG.md
-└── anime-angel/              ← one folder per series
-    ├── anime-angel-1/        ← one folder per theme
-    │   ├── avatar.webp
-    │   └── animations/
-    │       ├── idle.mp4
-    │       ├── working.mp4
-    │       ├── making-something.mp4
-    │       └── milestone.mp4
-    ├── anime-angel-2/
+├── anime-angel/              ← one folder per series
+│   ├── anime-angel-1/        ← one folder per theme
+│   │   ├── avatar.webp
+│   │   └── animations/
+│   │       ├── idle.mp4
+│   │       ├── working.mp4
+│   │       ├── making-something.mp4
+│   │       └── milestone.mp4
+│   ├── anime-angel-2/
+│   │   └── avatar.webp
+│   ├── anime-angel-3/
+│   │   └── avatar.webp
+│   └── anime-angel-4/
+│       └── avatar.webp
+└── kimono/
+    ├── kimono-1/
     │   └── avatar.webp
-    ├── anime-angel-3/
+    ├── kimono-2/
     │   └── avatar.webp
-    └── anime-angel-4/
+    ├── kimono-3/
+    │   └── avatar.webp
+    └── kimono-4/
         └── avatar.webp
 ```
 
@@ -61,9 +81,14 @@ Une collection de **thèmes d'avatar pour Muse** — images et animations d'avat
 
 Les thèmes sont regroupés **par série** : un dossier par série, et dedans un dossier par thème. Chaque dossier de thème contient une image d'avatar (`avatar.webp`). Le thème actif contient aussi toutes ses animations (MP4) : celles que Muse fait défiler en haut de la discussion selon ce qu'il fait — repos, travail, création, célébration.
 
-**Série Anime Angel** — quatre variantes du même ange, générées à partir d'une seule image de référence, sauvegardées ici pour pouvoir y revenir à tout moment :
+**Série Kimono** — une épéiste en kimono blanc aux bordures rouges, parure de cheveux ornée et katana, parmi les fleurs de cerisier. Quatre variantes générées d'une même illustration :
+- **kimono-1** — style anime 3D. ✅ Actif dans Muse.
+- **kimono-2** — anime plat, le plus proche de l'illustration de référence.
+- **kimono-3** — rendu semi-réaliste.
+- **kimono-4** — version pixel art.
 
-- **anime-angel-1** — style anime, ange blonde en robe blanche satinée, ailes de plumes, auréole rose. ✅ Actif dans Muse, animations incluses.
+**Série Anime Angel** — quatre variantes du même ange, générées à partir d'une seule image de référence :
+- **anime-angel-1** — style anime, ange blonde en robe blanche satinée, ailes de plumes, auréole rose. Animations incluses.
 - **anime-angel-2** — style anime, le plus proche de l'illustration de référence, ailes grandes ouvertes.
 - **anime-angel-3** — rendu semi-réaliste, lumière plus douce, ailes plus lumineuses.
 - **anime-angel-4** — version pixel art de l'ange.

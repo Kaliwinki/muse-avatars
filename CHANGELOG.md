@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0 — 2026-10-20
+
+- New series: **Kimono** (4 variations of a swordswoman in a white kimono, from one reference artwork). `kimono/kimono-1` set as the active Muse avatar.
+
 ## 1.1.0 — 2026-10-20
 
 - Restructured: the four Anime Angel themes moved from the repository root into a single series folder, `anime-angel/` (one folder per series, one folder per theme inside it), to keep the root clean as more themes are added.

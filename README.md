@@ -12,7 +12,7 @@ Streetwear cat-girl: black cropped hoodie with cat ears, long pale-pink braids, 
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **neko-hoodie-1** | ![neko-hoodie-1](neko-hoodie/neko-hoodie-1/avatar.webp) | Anime 3D style — cat-ear hoodie, pink braids, tattoos | ✅ Active in Muse |
+| **neko-hoodie-1** | ![neko-hoodie-1](neko-hoodie/neko-hoodie-1/avatar.webp) | Anime 3D style — cat-ear hoodie, pink braids, tattoos | ✅ Active in Muse, animations included |
 | **neko-hoodie-2** | ![neko-hoodie-2](neko-hoodie/neko-hoodie-2/avatar.webp) | Pixel art version | Available |
 
 ## Series: Kimono
@@ -83,7 +83,12 @@ muse-avatars/
         └── avatar.webp
 └── neko-hoodie/
     ├── neko-hoodie-1/
-    │   └── avatar.webp
+    │   ├── avatar.webp
+    │   └── animations/
+    │       ├── idle.mp4
+    │       ├── working.mp4
+    │       ├── making-something.mp4
+    │       └── milestone.mp4
     └── neko-hoodie-2/
         └── avatar.webp
 ```

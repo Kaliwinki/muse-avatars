@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.1 — 2026-10-20
+
+- Added the 4 animations of bowser-1 (idle, working, making-something, milestone) to `bowser/bowser-1/animations/`.
+
 ## 1.7.0 — 2026-10-20
 
 - New series: **Bowser** (4 variations: 3D render, detailed 3D, pixel art, flat 2D cartoon). `bowser/bowser-1` set as the active Muse avatar.

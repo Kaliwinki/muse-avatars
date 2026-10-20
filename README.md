@@ -12,7 +12,7 @@ The Koopa King — spiked green shell, red mane, horns and claws out. Four varia
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **bowser-1** | ![bowser-1](bowser/bowser-1/avatar.webp) | 3D render | ✅ Active in Muse |
+| **bowser-1** | ![bowser-1](bowser/bowser-1/avatar.webp) | 3D render | ✅ Active in Muse, animations included |
 | **bowser-2** | ![bowser-2](bowser/bowser-2/avatar.webp) | Detailed 3D render, closest to the reference | Available |
 | **bowser-3** | ![bowser-3](bowser/bowser-3/avatar.webp) | Pixel art version | Available |
 | **bowser-4** | ![bowser-4](bowser/bowser-4/avatar.webp) | Flat 2D cartoon illustration | Available |
@@ -179,7 +179,12 @@ muse-avatars/
         └── avatar.webp
 └── bowser/
     ├── bowser-1/
-    │   └── avatar.webp
+    │   ├── avatar.webp
+    │   └── animations/
+    │       ├── idle.mp4
+    │       ├── working.mp4
+    │       ├── making-something.mp4
+    │       └── milestone.mp4
     ├── bowser-2/
     │   └── avatar.webp
     ├── bowser-3/
@@ -201,7 +206,7 @@ Une collection de **thèmes d'avatar pour Muse** — images et animations d'avat
 Les thèmes sont regroupés **par série** : un dossier par série, et dedans un dossier par thème. Chaque dossier de thème contient une image d'avatar (`avatar.webp`). Le thème actif contient aussi toutes ses animations (MP4) : celles que Muse fait défiler en haut de la discussion selon ce qu'il fait — repos, travail, création, célébration.
 
 **Série Bowser** — le roi Koopa : carapace verte à pointes, crinière rouge, cornes et griffes dehors. Quatre variantes :
-- **bowser-1** — rendu 3D. ✅ Actif dans Muse.
+- **bowser-1** — rendu 3D. ✅ Actif dans Muse, animations incluses.
 - **bowser-2** — rendu 3D détaillé, le plus proche de la référence.
 - **bowser-3** — version pixel art.
 - **bowser-4** — illustration cartoon 2D.

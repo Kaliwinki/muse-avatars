@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.15.1 — 2026-10-20
+
+- Animations added for `einstein/einstein-1` and `einstein-cartoon/einstein-cartoon-1` (idle, working, making-something, milestone).
+
 ## 1.15.0 — 2026-10-20
 
 - New series: **Einstein Cartoon** (chibi Einstein with his light bulb; 3 variations: 3D chibi render, flat 2D cartoon, pixel art). `einstein-cartoon/einstein-cartoon-1` set as the active Muse avatar.

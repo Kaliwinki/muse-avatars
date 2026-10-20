@@ -27,7 +27,7 @@ A chibi cartoon Albert Einstein with his light bulb of genius — big head, wild
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **einstein-cartoon-1** | ![einstein-cartoon-1](einstein-cartoon/einstein-cartoon-1/avatar.webp) | 3D chibi render | ✅ Active in Muse |
+| **einstein-cartoon-1** | ![einstein-cartoon-1](einstein-cartoon/einstein-cartoon-1/avatar.webp) | 3D chibi render | ✅ Active in Muse, animations included |
 | **einstein-cartoon-2** | ![einstein-cartoon-2](einstein-cartoon/einstein-cartoon-2/avatar.webp) | Flat 2D cartoon, closest to the reference | Available |
 | **einstein-cartoon-3** | ![einstein-cartoon-3](einstein-cartoon/einstein-cartoon-3/avatar.webp) | Pixel art version | Available |
 
@@ -37,7 +37,7 @@ Albert Einstein, from his famous portrait photograph — wild white hair, mustac
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **einstein-1** | ![einstein-1](einstein/einstein-1/avatar.webp) | Realistic color render | Available |
+| **einstein-1** | ![einstein-1](einstein/einstein-1/avatar.webp) | Realistic color render | Available, animations included |
 | **einstein-2** | ![einstein-2](einstein/einstein-2/avatar.webp) | Black & white photographic portrait, closest to the reference | Available |
 | **einstein-3** | ![einstein-3](einstein/einstein-3/avatar.webp) | Black & white pixel art | Available |
 | **einstein-4** | ![einstein-4](einstein/einstein-4/avatar.webp) | Pencil sketch | Available |
@@ -341,7 +341,12 @@ muse-avatars/
     │   └── avatar.webp
 ├── einstein/
     ├── einstein-1/
-    │   └── avatar.webp
+    │   ├── avatar.webp
+    │   └── animations/
+    │       ├── idle.mp4
+    │       ├── working.mp4
+    │       ├── making-something.mp4
+    │       └── milestone.mp4
     ├── einstein-2/
     │   └── avatar.webp
     ├── einstein-3/
@@ -350,7 +355,12 @@ muse-avatars/
     │   └── avatar.webp
 └── einstein-cartoon/
     ├── einstein-cartoon-1/
-    │   └── avatar.webp
+    │   ├── avatar.webp
+    │   └── animations/
+    │       ├── idle.mp4
+    │       ├── working.mp4
+    │       ├── making-something.mp4
+    │       └── milestone.mp4
     ├── einstein-cartoon-2/
     │   └── avatar.webp
     └── einstein-cartoon-3/

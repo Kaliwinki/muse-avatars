@@ -1,0 +1,7 @@
+# Changelog
+
+## 1.0.0 — 2026-10-20
+
+- Initial release: the **Anime Angel** theme set (4 variations generated from one reference artwork).
+- `anime-angel-1` set as the active Muse avatar, with its 4 animations (idle, working, making-something, milestone).
+- `anime-angel-2` (anime, closest to reference), `anime-angel-3` (semi-realistic) and `anime-angel-4` (pixel art) saved as switchable themes.

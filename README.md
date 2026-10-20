@@ -60,7 +60,12 @@ muse-avatars/
 │       └── avatar.webp
 └── kimono/
     ├── kimono-1/
-    │   └── avatar.webp
+    │   ├── avatar.webp
+    │   └── animations/
+    │       ├── idle.mp4
+    │       ├── working.mp4
+    │       ├── making-something.mp4
+    │       └── milestone.mp4
     ├── kimono-2/
     │   └── avatar.webp
     ├── kimono-3/

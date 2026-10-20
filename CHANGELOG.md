@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.1 — 2026-10-20
+
+- Added the 4 animations of the active theme (idle, working, making-something, milestone) to `kimono/kimono-1/animations/`.
+
 ## 1.2.0 — 2026-10-20
 
 - New series: **Kimono** (4 variations of a swordswoman in a white kimono, from one reference artwork). `kimono/kimono-1` set as the active Muse avatar.

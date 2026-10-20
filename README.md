@@ -6,13 +6,35 @@ Themes are grouped **by series**: one folder per series, and inside it one folde
 
 > 🇫🇷 Version française plus bas.
 
+## Series: Kyle
+
+South Park's Kyle Broflovski — green ushanka hat, orange jacket, green mittens, big grin. Four variations generated from one reference artwork, with no props added.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **kyle-1** | ![kyle-1](kyle/kyle-1/avatar.webp) | 3D felt render | ✅ Active in Muse, animations included |
+| **kyle-2** | ![kyle-2](kyle/kyle-2/avatar.webp) | Flat South Park cartoon, closest to the reference | Available |
+| **kyle-3** | ![kyle-3](kyle/kyle-3/avatar.webp) | Realistic live-action style | Available |
+| **kyle-4** | ![kyle-4](kyle/kyle-4/avatar.webp) | Pixel art version | Available |
+
+## Series: Jesus
+
+The South Park version of Jesus — white robe, red sash, rope belt, sandals and a golden halo. Four variations generated from one reference artwork.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **jesus-1** | ![jesus-1](jesus/jesus-1/avatar.webp) | Flat South Park cartoon, closest to the reference | Available, animations included |
+| **jesus-2** | ![jesus-2](jesus/jesus-2/avatar.webp) | 3D clay render | Available |
+| **jesus-3** | ![jesus-3](jesus/jesus-3/avatar.webp) | Realistic live-action style | Available |
+| **jesus-4** | ![jesus-4](jesus/jesus-4/avatar.webp) | Pixel art version | Available |
+
 ## Series: Kirby
 
 The pink puffball of Dream Land — round, soft, and always ready to inhale a snack. Four variations generated from one reference artwork.
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **kirby-1** | ![kirby-1](kirby/kirby-1/avatar.webp) | Plush texture render, closest to the reference | ✅ Active in Muse |
+| **kirby-1** | ![kirby-1](kirby/kirby-1/avatar.webp) | Plush texture render, closest to the reference | Available, animations included |
 | **kirby-2** | ![kirby-2](kirby/kirby-2/avatar.webp) | 3D render | Available |
 | **kirby-3** | ![kirby-3](kirby/kirby-3/avatar.webp) | Pixel art version | Available |
 | **kirby-4** | ![kirby-4](kirby/kirby-4/avatar.webp) | Flat 2D cartoon illustration | Available |
@@ -239,14 +261,47 @@ muse-avatars/
     │   └── avatar.webp
     └── toadette-4/
         └── avatar.webp
-└── kirby/
+├── kirby/
     ├── kirby-1/
-    │   └── avatar.webp
+    │   ├── avatar.webp
+    │   └── animations/
+    │       ├── idle.mp4
+    │       ├── working.mp4
+    │       ├── making-something.mp4
+    │       └── milestone.mp4
     ├── kirby-2/
     │   └── avatar.webp
     ├── kirby-3/
     │   └── avatar.webp
-    └── kirby-4/
+    ├── kirby-4/
+    │   └── avatar.webp
+├── jesus/
+│   ├── jesus-1/
+│   │   ├── avatar.webp
+│   │   └── animations/
+│   │       ├── idle.mp4
+│   │       ├── working.mp4
+│   │       ├── making-something.mp4
+│   │       └── milestone.mp4
+│   ├── jesus-2/
+│   │   └── avatar.webp
+│   ├── jesus-3/
+│   │   └── avatar.webp
+│   └── jesus-4/
+│       └── avatar.webp
+└── kyle/
+    ├── kyle-1/
+    │   ├── avatar.webp
+    │   └── animations/
+    │       ├── idle.mp4
+    │       ├── working.mp4
+    │       ├── making-something.mp4
+    │       └── milestone.mp4
+    ├── kyle-2/
+    │   └── avatar.webp
+    ├── kyle-3/
+    │   └── avatar.webp
+    └── kyle-4/
         └── avatar.webp
 ```
 
@@ -262,8 +317,20 @@ Une collection de **thèmes d'avatar pour Muse** — images et animations d'avat
 
 Les thèmes sont regroupés **par série** : un dossier par série, et dedans un dossier par thème. Chaque dossier de thème contient une image d'avatar (`avatar.webp`). Le thème actif contient aussi toutes ses animations (MP4) : celles que Muse fait défiler en haut de la discussion selon ce qu'il fait — repos, travail, création, célébration.
 
+**Série Kyle** — Kyle Broflovski de South Park : chapeau vert à rabats, manteau orange, mitaines vertes, grand sourire. Quatre variantes, sans aucun ajout :
+- **kyle-1** — rendu 3D feutrine. ✅ Actif dans Muse.
+- **kyle-2** — cartoon South Park, le plus proche de la référence.
+- **kyle-3** — style réaliste.
+- **kyle-4** — version pixel art.
+
+**Série Jésus** — le Jésus de South Park : tunique blanche, écharpe rouge, ceinture de corde, sandales et auréole dorée. Quatre variantes :
+- **jesus-1** — cartoon South Park, le plus proche de la référence.
+- **jesus-2** — rendu 3D pâte à modeler.
+- **jesus-3** — style réaliste.
+- **jesus-4** — version pixel art.
+
 **Série Kirby** — la petite boule rose de Dream Land : ronde, douce, toujours prête à avaler un goûter. Quatre variantes :
-- **kirby-1** — rendu texture peluche, le plus proche de la référence. ✅ Actif dans Muse.
+- **kirby-1** — rendu texture peluche, le plus proche de la référence.
 - **kirby-2** — rendu 3D.
 - **kirby-3** — version pixel art.
 - **kirby-4** — illustration cartoon 2D.

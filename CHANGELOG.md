@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.12.0 — 2026-10-20
+
+- New series: **Kyle** (South Park; 4 variations: 3D felt render, flat cartoon, realistic, pixel art). `kyle/kyle-1` set as the active Muse avatar.
+
+## 1.11.0 — 2026-10-20
+
+- New series: **Jesus** (South Park version; 4 variations: flat cartoon, 3D clay render, realistic, pixel art). `jesus/jesus-1` was set as the active Muse avatar.
+
 ## 1.10.0 — 2026-10-20
 
 - New series: **Kirby** (4 variations: plush texture, 3D render, pixel art, flat 2D cartoon). `kirby/kirby-1` set as the active Muse avatar.

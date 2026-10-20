@@ -6,13 +6,22 @@ Themes are grouped **by series**: one folder per series, and inside it one folde
 
 > 🇫🇷 Version française plus bas.
 
+## Series: Neko Hoodie
+
+Streetwear cat-girl: black cropped hoodie with cat ears, long pale-pink braids, gloves and thigh tattoos — two variations generated from one reference artwork.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **neko-hoodie-1** | ![neko-hoodie-1](neko-hoodie/neko-hoodie-1/avatar.webp) | Anime 3D style — cat-ear hoodie, pink braids, tattoos | ✅ Active in Muse |
+| **neko-hoodie-2** | ![neko-hoodie-2](neko-hoodie/neko-hoodie-2/avatar.webp) | Pixel art version | Available |
+
 ## Series: Kimono
 
 A swordswoman in a white kimono with red trim, an ornate hair ornament, and a katana, among cherry blossoms — four variations generated from one reference artwork.
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **kimono-1** | ![kimono-1](kimono/kimono-1/avatar.webp) | Anime 3D style — white kimono, red bow belt, katana | ✅ Active in Muse |
+| **kimono-1** | ![kimono-1](kimono/kimono-1/avatar.webp) | Anime 3D style — white kimono, red bow belt, katana | Available, animations included |
 | **kimono-2** | ![kimono-2](kimono/kimono-2/avatar.webp) | Flat anime — closest to the reference artwork | Available |
 | **kimono-3** | ![kimono-3](kimono/kimono-3/avatar.webp) | Semi-realistic render | Available |
 | **kimono-4** | ![kimono-4](kimono/kimono-4/avatar.webp) | Pixel art version | Available |
@@ -72,6 +81,11 @@ muse-avatars/
     │   └── avatar.webp
     └── kimono-4/
         └── avatar.webp
+└── neko-hoodie/
+    ├── neko-hoodie-1/
+    │   └── avatar.webp
+    └── neko-hoodie-2/
+        └── avatar.webp
 ```
 
 ## Using a theme
@@ -86,8 +100,12 @@ Une collection de **thèmes d'avatar pour Muse** — images et animations d'avat
 
 Les thèmes sont regroupés **par série** : un dossier par série, et dedans un dossier par thème. Chaque dossier de thème contient une image d'avatar (`avatar.webp`). Le thème actif contient aussi toutes ses animations (MP4) : celles que Muse fait défiler en haut de la discussion selon ce qu'il fait — repos, travail, création, célébration.
 
+**Série Neko Hoodie** — streetwear oreilles de chat : hoodie noir court à oreilles de chat, longues tresses rose pâle, gants et tatouages sur les cuisses. Deux variantes :
+- **neko-hoodie-1** — style anime 3D. ✅ Actif dans Muse.
+- **neko-hoodie-2** — version pixel art.
+
 **Série Kimono** — une épéiste en kimono blanc aux bordures rouges, parure de cheveux ornée et katana, parmi les fleurs de cerisier. Quatre variantes générées d'une même illustration :
-- **kimono-1** — style anime 3D. ✅ Actif dans Muse.
+- **kimono-1** — style anime 3D. Animations incluses.
 - **kimono-2** — anime plat, le plus proche de l'illustration de référence.
 - **kimono-3** — rendu semi-réaliste.
 - **kimono-4** — version pixel art.

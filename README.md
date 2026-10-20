@@ -6,13 +6,35 @@ Themes are grouped **by series**: one folder per series, and inside it one folde
 
 > 🇫🇷 Version française plus bas.
 
+## Series: Peach
+
+The princess of the Mushroom Kingdom — pink ballgown, gold crown, blue gem brooch. Four variations generated from one reference artwork.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **peach-1** | ![peach-1](peach/peach-1/avatar.webp) | 3D render | ✅ Active in Muse, animations included |
+| **peach-2** | ![peach-2](peach/peach-2/avatar.webp) | 3D clay texture render, closest to the reference | Available |
+| **peach-3** | ![peach-3](peach/peach-3/avatar.webp) | Pixel art version | Available |
+| **peach-4** | ![peach-4](peach/peach-4/avatar.webp) | Flat 2D cartoon illustration | Available |
+
+## Series: Mario
+
+The famous plumber — red cap with the M emblem, blue overalls, white gloves. Four variations generated from one reference artwork.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **mario-1** | ![mario-1](mario/mario-1/avatar.webp) | 3D cartoon | Available, animations included |
+| **mario-2** | ![mario-2](mario/mario-2/avatar.webp) | Semi-realistic 3D render, closest to the reference | Available |
+| **mario-3** | ![mario-3](mario/mario-3/avatar.webp) | Pixel art version | Available |
+| **mario-4** | ![mario-4](mario/mario-4/avatar.webp) | Flat 2D cartoon illustration | Available |
+
 ## Series: Yoshi
 
 The green dinosaur — red spines, orange shoes, always mid-run. Four variations generated from one reference artwork.
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **yoshi-1** | ![yoshi-1](yoshi/yoshi-1/avatar.webp) | 3D render — running pose | ✅ Active in Muse |
+| **yoshi-1** | ![yoshi-1](yoshi/yoshi-1/avatar.webp) | 3D render — running pose | Available, animations included |
 | **yoshi-2** | ![yoshi-2](yoshi/yoshi-2/avatar.webp) | 3D clay texture render, closest to the reference | Available |
 | **yoshi-3** | ![yoshi-3](yoshi/yoshi-3/avatar.webp) | Pixel art version | Available |
 | **yoshi-4** | ![yoshi-4](yoshi/yoshi-4/avatar.webp) | Flat 2D cartoon illustration | Available |
@@ -104,12 +126,45 @@ muse-avatars/
         └── avatar.webp
 └── yoshi/
     ├── yoshi-1/
-    │   └── avatar.webp
+    │   ├── avatar.webp
+    │   └── animations/
+    │       ├── idle.mp4
+    │       ├── working.mp4
+    │       ├── making-something.mp4
+    │       └── milestone.mp4
     ├── yoshi-2/
     │   └── avatar.webp
     ├── yoshi-3/
     │   └── avatar.webp
     └── yoshi-4/
+        └── avatar.webp
+└── mario/
+    ├── mario-1/
+    │   ├── avatar.webp
+    │   └── animations/
+    │       ├── idle.mp4
+    │       ├── working.mp4
+    │       ├── making-something.mp4
+    │       └── milestone.mp4
+    ├── mario-2/
+    │   └── avatar.webp
+    ├── mario-3/
+    │   └── avatar.webp
+    └── mario-4/
+        └── avatar.webp
+└── peach/
+    ├── peach-1/
+    │   ├── avatar.webp
+    │   └── animations/
+    │       ├── idle.mp4
+    │       ├── working.mp4
+    │       ├── making-something.mp4
+    │       └── milestone.mp4
+    ├── peach-2/
+    │   └── avatar.webp
+    ├── peach-3/
+    │   └── avatar.webp
+    └── peach-4/
         └── avatar.webp
 ```
 
@@ -125,8 +180,20 @@ Une collection de **thèmes d'avatar pour Muse** — images et animations d'avat
 
 Les thèmes sont regroupés **par série** : un dossier par série, et dedans un dossier par thème. Chaque dossier de thème contient une image d'avatar (`avatar.webp`). Le thème actif contient aussi toutes ses animations (MP4) : celles que Muse fait défiler en haut de la discussion selon ce qu'il fait — repos, travail, création, célébration.
 
+**Série Peach** — la princesse du Royaume Champignon : robe de bal rose, couronne dorée, broche bleue. Quatre variantes :
+- **peach-1** — rendu 3D. ✅ Actif dans Muse.
+- **peach-2** — rendu 3D texture pâte à modeler, le plus proche de la référence.
+- **peach-3** — version pixel art.
+- **peach-4** — illustration cartoon 2D.
+
+**Série Mario** — le célèbre plombier : casquette rouge au M, salopette bleue, gants blancs. Quatre variantes :
+- **mario-1** — cartoon 3D. Animations incluses.
+- **mario-2** — rendu 3D semi-réaliste, le plus proche de la référence.
+- **mario-3** — version pixel art.
+- **mario-4** — illustration cartoon 2D.
+
 **Série Yoshi** — le dinosaure vert, épines rouges et chaussures orange, toujours en pleine course. Quatre variantes :
-- **yoshi-1** — rendu 3D, pose de course. ✅ Actif dans Muse.
+- **yoshi-1** — rendu 3D, pose de course. Animations incluses.
 - **yoshi-2** — rendu 3D texture pâte à modeler, le plus proche de la référence.
 - **yoshi-3** — version pixel art.
 - **yoshi-4** — illustration cartoon 2D.

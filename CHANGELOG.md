@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.6.1 — 2026-10-20
+
+- Added the 4 animations of peach-1 (idle, working, making-something, milestone) to `peach/peach-1/animations/`.
+
+## 1.6.0 — 2026-10-20
+
+- New series: **Peach** (4 variations: 3D render, 3D clay texture, pixel art, flat 2D cartoon). `peach/peach-1` set as the active Muse avatar.
+
+## 1.5.1 — 2026-10-20
+
+- Added the 4 animations of mario-1 (idle, working, making-something, milestone) to `mario/mario-1/animations/`.
+
+## 1.5.0 — 2026-10-20
+
+- New series: **Mario** (4 variations: 3D cartoon, semi-realistic 3D, pixel art, flat 2D cartoon). `mario/mario-1` set as the active Muse avatar.
+
+## 1.4.1 — 2026-10-20
+
+- Added the 4 animations of yoshi-1 (idle, working, making-something, milestone) to `yoshi/yoshi-1/animations/`.
+
 ## 1.4.0 — 2026-10-20
 
 - New series: **Yoshi** (4 variations: 3D render, 3D clay texture, pixel art, flat 2D cartoon). `yoshi/yoshi-1` set as the active Muse avatar.

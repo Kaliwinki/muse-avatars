@@ -21,13 +21,34 @@ One folder per series (`mario/`, `kirby/`, `kyle/`, …), one subfolder per them
 
 > 🇫🇷 Version française plus bas.
 
+## Series: Einstein Cartoon
+
+A chibi cartoon Albert Einstein with his light bulb of genius — big head, wild hair, holding a glowing idea. Three variations generated from the cartoon reference.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **einstein-cartoon-1** | ![einstein-cartoon-1](einstein-cartoon/einstein-cartoon-1/avatar.webp) | 3D chibi render | ✅ Active in Muse |
+| **einstein-cartoon-2** | ![einstein-cartoon-2](einstein-cartoon/einstein-cartoon-2/avatar.webp) | Flat 2D cartoon, closest to the reference | Available |
+| **einstein-cartoon-3** | ![einstein-cartoon-3](einstein-cartoon/einstein-cartoon-3/avatar.webp) | Pixel art version | Available |
+
+## Series: Einstein
+
+Albert Einstein, from his famous portrait photograph — wild white hair, mustache, thoughtful gaze. Four variations generated from the reference photo.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **einstein-1** | ![einstein-1](einstein/einstein-1/avatar.webp) | Realistic color render | Available |
+| **einstein-2** | ![einstein-2](einstein/einstein-2/avatar.webp) | Black & white photographic portrait, closest to the reference | Available |
+| **einstein-3** | ![einstein-3](einstein/einstein-3/avatar.webp) | Black & white pixel art | Available |
+| **einstein-4** | ![einstein-4](einstein/einstein-4/avatar.webp) | Pencil sketch | Available |
+
 ## Series: Kyle
 
 South Park's Kyle Broflovski — green ushanka hat, orange jacket, green mittens, big grin. Four variations generated from one reference artwork, with no props added.
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **kyle-1** | ![kyle-1](kyle/kyle-1/avatar.webp) | 3D felt render | ✅ Active in Muse, animations included |
+| **kyle-1** | ![kyle-1](kyle/kyle-1/avatar.webp) | 3D felt render | Available, animations included |
 | **kyle-2** | ![kyle-2](kyle/kyle-2/avatar.webp) | Flat South Park cartoon, closest to the reference | Available |
 | **kyle-3** | ![kyle-3](kyle/kyle-3/avatar.webp) | Realistic live-action style | Available |
 | **kyle-4** | ![kyle-4](kyle/kyle-4/avatar.webp) | Pixel art version | Available |
@@ -304,7 +325,7 @@ muse-avatars/
 │   │   └── avatar.webp
 │   └── jesus-4/
 │       └── avatar.webp
-└── kyle/
+├── kyle/
     ├── kyle-1/
     │   ├── avatar.webp
     │   └── animations/
@@ -316,7 +337,23 @@ muse-avatars/
     │   └── avatar.webp
     ├── kyle-3/
     │   └── avatar.webp
-    └── kyle-4/
+    ├── kyle-4/
+    │   └── avatar.webp
+├── einstein/
+    ├── einstein-1/
+    │   └── avatar.webp
+    ├── einstein-2/
+    │   └── avatar.webp
+    ├── einstein-3/
+    │   └── avatar.webp
+    ├── einstein-4/
+    │   └── avatar.webp
+└── einstein-cartoon/
+    ├── einstein-cartoon-1/
+    │   └── avatar.webp
+    ├── einstein-cartoon-2/
+    │   └── avatar.webp
+    └── einstein-cartoon-3/
         └── avatar.webp
 ```
 
@@ -332,8 +369,19 @@ Une collection de **thèmes d'avatar pour Muse** — images et animations d'avat
 
 Les thèmes sont regroupés **par série** : un dossier par série, et dedans un dossier par thème. Chaque dossier de thème contient une image d'avatar (`avatar.webp`). Le thème actif contient aussi toutes ses animations (MP4) : celles que Muse fait défiler en haut de la discussion selon ce qu'il fait — repos, travail, création, célébration.
 
+**Série Einstein cartoon** — un petit Einstein chibi avec son ampoule de génie : grosse tête, cheveux en bataille, une idée qui s'allume. Trois variantes :
+- **einstein-cartoon-1** — rendu 3D chibi. ✅ Actif dans Muse.
+- **einstein-cartoon-2** — cartoon 2D, le plus proche de la référence.
+- **einstein-cartoon-3** — version pixel art.
+
+**Série Einstein** — Albert Einstein, d'après sa célèbre photo portrait : cheveux blancs en bataille, moustache, regard pensif. Quatre variantes :
+- **einstein-1** — rendu réaliste en couleur.
+- **einstein-2** — portrait photo noir et blanc, le plus proche de la référence.
+- **einstein-3** — pixel art noir et blanc.
+- **einstein-4** — croquis au crayon.
+
 **Série Kyle** — Kyle Broflovski de South Park : chapeau vert à rabats, manteau orange, mitaines vertes, grand sourire. Quatre variantes, sans aucun ajout :
-- **kyle-1** — rendu 3D feutrine. ✅ Actif dans Muse.
+- **kyle-1** — rendu 3D feutrine.
 - **kyle-2** — cartoon South Park, le plus proche de la référence.
 - **kyle-3** — style réaliste.
 - **kyle-4** — version pixel art.

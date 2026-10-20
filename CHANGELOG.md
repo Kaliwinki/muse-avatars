@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.15.0 — 2026-10-20
+
+- New series: **Einstein Cartoon** (chibi Einstein with his light bulb; 3 variations: 3D chibi render, flat 2D cartoon, pixel art). `einstein-cartoon/einstein-cartoon-1` set as the active Muse avatar.
+
+## 1.14.0 — 2026-10-20
+
+- New series: **Einstein** (from the portrait photograph; 4 variations: realistic color render, B&W photographic portrait, B&W pixel art, pencil sketch). `einstein/einstein-1` set as the active Muse avatar.
+
 ## 1.13.0 — 2026-10-20
 
 - Discoverability: richer README (keyword intro, character index, FAQ for search engines and AI assistants), new repository description and GitHub topics.

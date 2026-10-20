@@ -1,8 +1,23 @@
-# muse-avatars
+# muse-avatars — Custom Avatar Themes for Meta Muse
 
-A collection of **Muse avatar themes** — custom avatar images and animations created for [Meta Muse](https://www.meta.ai/), the personal AI assistant.
+**Free custom avatar themes for [Meta Muse](https://www.meta.ai/)**, the personal AI assistant by Meta. This repository collects ready-to-use **avatar images and animated avatar videos** (WebP + MP4) that change how your Muse AI assistant looks in chat.
 
-Themes are grouped **by series**: one folder per series, and inside it one folder per theme. Each theme folder holds a still avatar image (`avatar.webp`). The active theme also includes its full set of animated states (MP4) — the little animations Muse cycles through at the top of the chat: idle, working, creating, and celebrating.
+Looking for a new avatar for your AI assistant? Browse the series below — each one offers the same character in several art styles: **3D render, pixel art, flat cartoon, clay/plush texture, realistic and anime**. Characters and themes include **Mario, Princess Peach, Bowser, Yoshi, Toad, Toadette, Kirby, Kyle Broflovski and Jesus (South Park), Albert Einstein, an anime angel, a kimono swordswoman and a neko hoodie cat girl** — with new series added regularly.
+
+Themes are grouped **by series**: one folder per series, and inside it one folder per theme. Each theme folder holds a still avatar image (`avatar.webp`). Featured themes also include their full set of animated states (MP4) — the little animations Muse cycles through at the top of the chat: idle, working, creating, and celebrating a milestone.
+
+All themes are released under the **MIT license**: you are free to use them as your own Muse avatar.
+
+## FAQ
+
+**What is a Muse avatar theme?**
+Meta Muse is a personal AI assistant. Its avatar is the character shown at the top of the chat, with small animations for its states (idle, working, creating, milestone). A theme in this repository provides a replacement still image (`avatar.webp`) and, for featured themes, the matching animation videos.
+
+**Can I use these avatars for my own Muse?**
+Yes. The repository is public and MIT licensed — the owner explicitly shares these themes with any Muse user who wants to change their avatar. Pick a series, open a theme folder, and use its `avatar.webp` (plus its `animations/` videos when included).
+
+**How is the repository organized?**
+One folder per series (`mario/`, `kirby/`, `kyle/`, …), one subfolder per theme variation (`kirby-1`, `kirby-2`, …). Theme **-1** of each series is the variation that was activated and used in Muse; the others are alternative styles of the same character (3D, pixel art, cartoon, realistic…).
 
 > 🇫🇷 Version française plus bas.
 

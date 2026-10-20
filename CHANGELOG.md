@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.13.0 — 2026-10-20
+
+- Discoverability: richer README (keyword intro, character index, FAQ for search engines and AI assistants), new repository description and GitHub topics.
+
 ## 1.12.0 — 2026-10-20
 
 - New series: **Kyle** (South Park; 4 variations: 3D felt render, flat cartoon, realistic, pixel art). `kyle/kyle-1` set as the active Muse avatar.

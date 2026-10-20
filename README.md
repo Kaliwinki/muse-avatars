@@ -6,13 +6,45 @@ Themes are grouped **by series**: one folder per series, and inside it one folde
 
 > 🇫🇷 Version française plus bas.
 
+## Series: Kirby
+
+The pink puffball of Dream Land — round, soft, and always ready to inhale a snack. Four variations generated from one reference artwork.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **kirby-1** | ![kirby-1](kirby/kirby-1/avatar.webp) | Plush texture render, closest to the reference | ✅ Active in Muse |
+| **kirby-2** | ![kirby-2](kirby/kirby-2/avatar.webp) | 3D render | Available |
+| **kirby-3** | ![kirby-3](kirby/kirby-3/avatar.webp) | Pixel art version | Available |
+| **kirby-4** | ![kirby-4](kirby/kirby-4/avatar.webp) | Flat 2D cartoon illustration | Available |
+
+## Series: Toadette
+
+The cheerful pink counterpart — spotted pink cap with pigtails, pink dress, always mid-cheer. Four variations generated from one reference artwork.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **toadette-1** | ![toadette-1](toadette/toadette-1/avatar.webp) | 3D clay texture render, closest to the reference | Available |
+| **toadette-2** | ![toadette-2](toadette/toadette-2/avatar.webp) | 3D render | Available |
+| **toadette-3** | ![toadette-3](toadette/toadette-3/avatar.webp) | Pixel art version | Available |
+| **toadette-4** | ![toadette-4](toadette/toadette-4/avatar.webp) | Flat 2D cartoon illustration | Available |
+
+## Series: Toad
+
+The loyal Mushroom Kingdom attendant — white cap with red spots, blue and yellow vest, big brown shoes. Three variations generated from one reference artwork.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **toad-1** | ![toad-1](toad/toad-1/avatar.webp) | 3D render | Available |
+| **toad-2** | ![toad-2](toad/toad-2/avatar.webp) | Pixel art version | Available |
+| **toad-3** | ![toad-3](toad/toad-3/avatar.webp) | Flat 2D cartoon illustration | Available |
+
 ## Series: Bowser
 
 The Koopa King — spiked green shell, red mane, horns and claws out. Four variations generated from one reference artwork.
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **bowser-1** | ![bowser-1](bowser/bowser-1/avatar.webp) | 3D render | ✅ Active in Muse, animations included |
+| **bowser-1** | ![bowser-1](bowser/bowser-1/avatar.webp) | 3D render | Available, animations included |
 | **bowser-2** | ![bowser-2](bowser/bowser-2/avatar.webp) | Detailed 3D render, closest to the reference | Available |
 | **bowser-3** | ![bowser-3](bowser/bowser-3/avatar.webp) | Pixel art version | Available |
 | **bowser-4** | ![bowser-4](bowser/bowser-4/avatar.webp) | Flat 2D cartoon illustration | Available |
@@ -177,7 +209,7 @@ muse-avatars/
     │   └── avatar.webp
     └── peach-4/
         └── avatar.webp
-└── bowser/
+├── bowser/
     ├── bowser-1/
     │   ├── avatar.webp
     │   └── animations/
@@ -190,6 +222,31 @@ muse-avatars/
     ├── bowser-3/
     │   └── avatar.webp
     └── bowser-4/
+        └── avatar.webp
+├── toad/
+    ├── toad-1/
+    │   └── avatar.webp
+    ├── toad-2/
+    │   └── avatar.webp
+    └── toad-3/
+        └── avatar.webp
+├── toadette/
+    ├── toadette-1/
+    │   └── avatar.webp
+    ├── toadette-2/
+    │   └── avatar.webp
+    ├── toadette-3/
+    │   └── avatar.webp
+    └── toadette-4/
+        └── avatar.webp
+└── kirby/
+    ├── kirby-1/
+    │   └── avatar.webp
+    ├── kirby-2/
+    │   └── avatar.webp
+    ├── kirby-3/
+    │   └── avatar.webp
+    └── kirby-4/
         └── avatar.webp
 ```
 
@@ -205,8 +262,25 @@ Une collection de **thèmes d'avatar pour Muse** — images et animations d'avat
 
 Les thèmes sont regroupés **par série** : un dossier par série, et dedans un dossier par thème. Chaque dossier de thème contient une image d'avatar (`avatar.webp`). Le thème actif contient aussi toutes ses animations (MP4) : celles que Muse fait défiler en haut de la discussion selon ce qu'il fait — repos, travail, création, célébration.
 
+**Série Kirby** — la petite boule rose de Dream Land : ronde, douce, toujours prête à avaler un goûter. Quatre variantes :
+- **kirby-1** — rendu texture peluche, le plus proche de la référence. ✅ Actif dans Muse.
+- **kirby-2** — rendu 3D.
+- **kirby-3** — version pixel art.
+- **kirby-4** — illustration cartoon 2D.
+
+**Série Toadette** — la joyeuse homologue rose : chapeau rose à pois avec couettes, robe rose, toujours en train d'encourager. Quatre variantes :
+- **toadette-1** — rendu 3D texture pâte à modeler, le plus proche de la référence.
+- **toadette-2** — rendu 3D.
+- **toadette-3** — version pixel art.
+- **toadette-4** — illustration cartoon 2D.
+
+**Série Toad** — le fidèle serviteur du Royaume Champignon : chapeau blanc à pois rouges, gilet bleu et jaune, grosses chaussures brunes. Trois variantes :
+- **toad-1** — rendu 3D.
+- **toad-2** — version pixel art.
+- **toad-3** — illustration cartoon 2D.
+
 **Série Bowser** — le roi Koopa : carapace verte à pointes, crinière rouge, cornes et griffes dehors. Quatre variantes :
-- **bowser-1** — rendu 3D. ✅ Actif dans Muse, animations incluses.
+- **bowser-1** — rendu 3D. Animations incluses.
 - **bowser-2** — rendu 3D détaillé, le plus proche de la référence.
 - **bowser-3** — version pixel art.
 - **bowser-4** — illustration cartoon 2D.

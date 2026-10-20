@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.10.0 — 2026-10-20
+
+- New series: **Kirby** (4 variations: plush texture, 3D render, pixel art, flat 2D cartoon). `kirby/kirby-1` set as the active Muse avatar.
+
+## 1.9.0 — 2026-10-20
+
+- New series: **Toadette** (4 variations: 3D clay texture, 3D render, pixel art, flat 2D cartoon). `toadette/toadette-1` set as the active Muse avatar.
+
+## 1.8.0 — 2026-10-20
+
+- New series: **Toad** (3 variations: 3D render, pixel art, flat 2D cartoon). `toad/toad-1` set as the active Muse avatar.
+
 ## 1.7.1 — 2026-10-20
 
 - Added the 4 animations of bowser-1 (idle, working, making-something, milestone) to `bowser/bowser-1/animations/`.

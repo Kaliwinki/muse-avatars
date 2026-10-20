@@ -6,13 +6,24 @@ Themes are grouped **by series**: one folder per series, and inside it one folde
 
 > 🇫🇷 Version française plus bas.
 
+## Series: Yoshi
+
+The green dinosaur — red spines, orange shoes, always mid-run. Four variations generated from one reference artwork.
+
+| Theme | Preview | Style | Status |
+|---|---|---|---|
+| **yoshi-1** | ![yoshi-1](yoshi/yoshi-1/avatar.webp) | 3D render — running pose | ✅ Active in Muse |
+| **yoshi-2** | ![yoshi-2](yoshi/yoshi-2/avatar.webp) | 3D clay texture render, closest to the reference | Available |
+| **yoshi-3** | ![yoshi-3](yoshi/yoshi-3/avatar.webp) | Pixel art version | Available |
+| **yoshi-4** | ![yoshi-4](yoshi/yoshi-4/avatar.webp) | Flat 2D cartoon illustration | Available |
+
 ## Series: Neko Hoodie
 
 Streetwear cat-girl: black cropped hoodie with cat ears, long pale-pink braids, gloves and thigh tattoos — two variations generated from one reference artwork.
 
 | Theme | Preview | Style | Status |
 |---|---|---|---|
-| **neko-hoodie-1** | ![neko-hoodie-1](neko-hoodie/neko-hoodie-1/avatar.webp) | Anime 3D style — cat-ear hoodie, pink braids, tattoos | ✅ Active in Muse, animations included |
+| **neko-hoodie-1** | ![neko-hoodie-1](neko-hoodie/neko-hoodie-1/avatar.webp) | Anime 3D style — cat-ear hoodie, pink braids, tattoos | Available, animations included |
 | **neko-hoodie-2** | ![neko-hoodie-2](neko-hoodie/neko-hoodie-2/avatar.webp) | Pixel art version | Available |
 
 ## Series: Kimono
@@ -91,6 +102,15 @@ muse-avatars/
     │       └── milestone.mp4
     └── neko-hoodie-2/
         └── avatar.webp
+└── yoshi/
+    ├── yoshi-1/
+    │   └── avatar.webp
+    ├── yoshi-2/
+    │   └── avatar.webp
+    ├── yoshi-3/
+    │   └── avatar.webp
+    └── yoshi-4/
+        └── avatar.webp
 ```
 
 ## Using a theme
@@ -105,8 +125,14 @@ Une collection de **thèmes d'avatar pour Muse** — images et animations d'avat
 
 Les thèmes sont regroupés **par série** : un dossier par série, et dedans un dossier par thème. Chaque dossier de thème contient une image d'avatar (`avatar.webp`). Le thème actif contient aussi toutes ses animations (MP4) : celles que Muse fait défiler en haut de la discussion selon ce qu'il fait — repos, travail, création, célébration.
 
+**Série Yoshi** — le dinosaure vert, épines rouges et chaussures orange, toujours en pleine course. Quatre variantes :
+- **yoshi-1** — rendu 3D, pose de course. ✅ Actif dans Muse.
+- **yoshi-2** — rendu 3D texture pâte à modeler, le plus proche de la référence.
+- **yoshi-3** — version pixel art.
+- **yoshi-4** — illustration cartoon 2D.
+
 **Série Neko Hoodie** — streetwear oreilles de chat : hoodie noir court à oreilles de chat, longues tresses rose pâle, gants et tatouages sur les cuisses. Deux variantes :
-- **neko-hoodie-1** — style anime 3D. ✅ Actif dans Muse.
+- **neko-hoodie-1** — style anime 3D. Animations incluses.
 - **neko-hoodie-2** — version pixel art.
 
 **Série Kimono** — une épéiste en kimono blanc aux bordures rouges, parure de cheveux ornée et katana, parmi les fleurs de cerisier. Quatre variantes générées d'une même illustration :

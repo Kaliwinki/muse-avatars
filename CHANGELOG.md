@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.0 — 2026-10-20
+
+- New series: **Yoshi** (4 variations: 3D render, 3D clay texture, pixel art, flat 2D cartoon). `yoshi/yoshi-1` set as the active Muse avatar.
+
 ## 1.3.1 — 2026-10-20
 
 - Added the 4 animations of the active theme (idle, working, making-something, milestone) to `neko-hoodie/neko-hoodie-1/animations/`.

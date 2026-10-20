@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0 — 2026-10-20
+
+- Restructured: the four Anime Angel themes moved from the repository root into a single series folder, `anime-angel/` (one folder per series, one folder per theme inside it), to keep the root clean as more themes are added.
+
 ## 1.0.0 — 2026-10-20
 
 - Initial release: the **Anime Angel** theme set (4 variations generated from one reference artwork).
